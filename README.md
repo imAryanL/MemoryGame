@@ -19,6 +19,12 @@ Memory Game App is an app that lets users flip cards to find matching pairs. Whe
 - Set the background to dark mode using SwiftUI’s `.preferredColorScheme(.dark)`.
 - Created an App Icon.
 
+## Demo 
+
+![memorygame-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/18ad890b-43ec-4ec7-ba49-3e92918b0013)
+
+
+
 ## Video Walkthrough
 Here's a walkthrough of the app:
 
