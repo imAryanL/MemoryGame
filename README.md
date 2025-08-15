@@ -21,8 +21,7 @@ Memory Game App is an app that lets users flip cards to find matching pairs. Whe
 
 ## Demo 
 
-![memorygame-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/18ad890b-43ec-4ec7-ba49-3e92918b0013)
-
+![memorygame-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/fb500233-4556-46fe-acbe-387e3ca45380)
 
 
 ## Video Walkthrough
